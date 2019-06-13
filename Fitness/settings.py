@@ -25,7 +25,7 @@ SECRET_KEY = '&otocmmi&rhq@g1r-e+czli6*uo$0=%!)ob&u0sll9v@&-r)0v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['100.25.219.65']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
